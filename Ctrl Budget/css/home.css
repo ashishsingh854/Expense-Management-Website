@@ -1,0 +1,64 @@
+
+.content{
+	min-height: 600px;
+}
+.top{
+	padding-top: 75px;
+}
+#banner-image{
+	padding-top: 75px;
+	text-align: center;
+	color: #f8f8f8;
+	background: url(budget_control.jpg) no-repeat center center;
+	background-size: cover;
+}
+#banner-content{
+	position: relative;
+	padding-top: 6%;
+	padding-bottom: 6%;
+	margin-top: 12%;
+	margin-bottom: 12%;
+	background-color: rgba(0, 0, 0, 0.7);
+	max-width: 600px;
+}
+.btn-outline-primary{
+	border: 2px solid #337ab7;
+	background-color: white;
+	color: #337ab7;
+}
+.btn-outline-primary:hover{
+	background: #337ab7;
+	color: white;
+}
+.expense{
+	margin-left: 100px;
+	margin-top: 80px;
+	margin-bottom: 100px;
+}
+.fixedbutton{
+	position: fixed;
+	bottom: 50px;
+	right: 30px;
+	font-size: 50px;
+}
+.change{
+	padding: 3px;
+}
+.center{
+	justify-content: center;
+	align-items: center;
+}
+.right{
+	float:right;
+}
+th{
+	padding: 10px;
+}
+footer{
+	position:bottom;
+	padding: 9px 0;
+	background-color: #101010;
+	color:#9d9d9d;
+	bottom: 0;
+	width: 100%;
+}
